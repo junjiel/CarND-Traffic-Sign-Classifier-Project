@@ -18,14 +18,14 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/visualization.jpg "Visualization"
-[image2]: ./examples/grayscale.jpg "Grayscaling"
+[image1]: ./Writeup_images/visualization.png "Visualization"
+[image2]: ./Writeup_images/grayscale.png "Grayscaling"
 [image3]: ./examples/random_noise.jpg "Random Noise"
-[image4]: ./examples/placeholder.png "Traffic Sign 1"
-[image5]: ./examples/placeholder.png "Traffic Sign 2"
-[image6]: ./examples/placeholder.png "Traffic Sign 3"
-[image7]: ./examples/placeholder.png "Traffic Sign 4"
-[image8]: ./examples/placeholder.png "Traffic Sign 5"
+[image4]: ./German_Traffic_Sign/14.jpg "Traffic Sign 1"
+[image5]: ./German_Traffic_Sign/23.jpg "Traffic Sign 2"
+[image6]: ./German_Traffic_Sign/26.jpg "Traffic Sign 3"
+[image7]: ./German_Traffic_Sign/33.jpg "Traffic Sign 4"
+[image8]: ./German_Traffic_Sign/40.jpg "Traffic Sign 5"
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
